@@ -13,10 +13,10 @@ int main() {
 
 	mano_sort(v);
 	
-	// for(auto x : v) {
-	// 	cout << x << ", ";
-	// }
-	// cout << "\n";
+	for(auto x : v) {
+		cout << x << ", ";
+	}
+	cout << "\n";
 	return 0;
 }
 
